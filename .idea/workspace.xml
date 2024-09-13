@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bddd1c0-4232-424f-af87-3159d4d71779" name="Changes" comment="set.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/map.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6bddd1c0-4232-424f-af87-3159d4d71779" name="Changes" comment="map.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ranges.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +35,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.MapKt">
+  <component name="RunManager" selected="Kotlin.RangesKt">
     <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
-      <module name="PemrogramanKotlinLanjutan5c" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListOfKt" />
       <module name="PemrogramanKotlinLanjutan5c" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,6 +57,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RangesKt" />
+      <module name="PemrogramanKotlinLanjutan5c" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SetKt" />
       <module name="PemrogramanKotlinLanjutan5c" />
@@ -74,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RangesKt" />
         <item itemvalue="Kotlin.MapKt" />
         <item itemvalue="Kotlin.SetKt" />
         <item itemvalue="Kotlin.ArrayListOfKt" />
         <item itemvalue="Kotlin.MutableListOfKt" />
-        <item itemvalue="Kotlin.ListOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726261658380</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="map.kt">
+      <created>1726263145702</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726263145702</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +200,7 @@
     <MESSAGE value="mutableListOf.kt" />
     <MESSAGE value="arrayListOf.kt" />
     <MESSAGE value="set.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="set.kt" />
+    <MESSAGE value="map.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="map.kt" />
   </component>
 </project>
