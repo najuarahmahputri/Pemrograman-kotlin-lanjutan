@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bddd1c0-4232-424f-af87-3159d4d71779" name="Changes" comment="breakdancontinue.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/return.kt" afterDir="false" />
+    <list default="true" id="6bddd1c0-4232-424f-af87-3159d4d71779" name="Changes" comment="return.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/label.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ReturnKt">
+  <component name="RunManager" selected="Kotlin.LabelKt">
     <configuration name="BreakdancontinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakdancontinueKt" />
       <module name="PemrogramanKotlinLanjutan5c" />
@@ -44,15 +44,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KodeprogrammmmKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KodeprogrammmmKt" />
+    <configuration name="KodeprogrammmmmKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KodeprogrammmmmKt" />
       <module name="PemrogramanKotlinLanjutan5c" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KodeprogrammmmmKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KodeprogrammmmmKt" />
+    <configuration name="LabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabelKt" />
       <module name="PemrogramanKotlinLanjutan5c" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LabelKt" />
         <item itemvalue="Kotlin.ReturnKt" />
         <item itemvalue="Kotlin.BreakdancontinueKt" />
         <item itemvalue="Kotlin.KodeprogrammmmmKt" />
         <item itemvalue="Kotlin.WhiledanDo_While_LoopKt" />
-        <item itemvalue="Kotlin.KodeprogrammmmKt" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726312649830</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="return.kt">
+      <created>1726331040230</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726331040230</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +312,7 @@
     <MESSAGE value="WhiledanDo-While Loop.kt" />
     <MESSAGE value="kodeprogrammmmm.kt" />
     <MESSAGE value="breakdancontinue.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="breakdancontinue.kt" />
+    <MESSAGE value="return.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="return.kt" />
   </component>
 </project>
