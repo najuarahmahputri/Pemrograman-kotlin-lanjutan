@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bddd1c0-4232-424f-af87-3159d4d71779" name="Changes" comment="kodeprogrammmm.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhiledanDo-While Loop.kt" afterDir="false" />
+    <list default="true" id="6bddd1c0-4232-424f-af87-3159d4d71779" name="Changes" comment="WhiledanDo-While Loop.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kodeprogrammmmm.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +36,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.WhiledanDo_While_LoopKt">
+  <component name="RunManager" selected="Kotlin.KodeprogrammmmmKt">
     <configuration name="For_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_loopKt" />
-      <module name="PemrogramanKotlinLanjutan5c" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KodeprogrammKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KodeprogrammKt" />
       <module name="PemrogramanKotlinLanjutan5c" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +58,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KodeprogrammmmmKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KodeprogrammmmmKt" />
+      <module name="PemrogramanKotlinLanjutan5c" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhiledanDo_While_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhiledanDo_While_LoopKt" />
       <module name="PemrogramanKotlinLanjutan5c" />
@@ -73,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KodeprogrammmmmKt" />
         <item itemvalue="Kotlin.WhiledanDo_While_LoopKt" />
         <item itemvalue="Kotlin.KodeprogrammmmKt" />
         <item itemvalue="Kotlin.KodeprogrammmKt" />
         <item itemvalue="Kotlin.For_loopKt" />
-        <item itemvalue="Kotlin.KodeprogrammKt" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726309590494</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="WhiledanDo-While Loop.kt">
+      <created>1726310863830</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726310863830</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +288,7 @@
     <MESSAGE value="for-loop.kt" />
     <MESSAGE value="kodeprogrammm.kt" />
     <MESSAGE value="kodeprogrammmm.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="kodeprogrammmm.kt" />
+    <MESSAGE value="WhiledanDo-While Loop.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="WhiledanDo-While Loop.kt" />
   </component>
 </project>
