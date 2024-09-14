@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bddd1c0-4232-424f-af87-3159d4d71779" name="Changes" comment="for-loop.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kodeprogrammm.kt" afterDir="false" />
+    <list default="true" id="6bddd1c0-4232-424f-af87-3159d4d71779" name="Changes" comment="kodeprogrammm.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kodeprogrammmm.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KodeprogrammmKt">
+  <component name="RunManager" selected="Kotlin.KodeprogrammmmKt">
     <configuration name="ContohkodeprogramKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContohkodeprogramKt" />
       <module name="PemrogramanKotlinLanjutan5c" />
@@ -46,13 +46,6 @@
     </configuration>
     <configuration name="For_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_loopKt" />
-      <module name="PemrogramanKotlinLanjutan5c" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KodeprogramKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KodeprogramKt" />
       <module name="PemrogramanKotlinLanjutan5c" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,13 +65,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KodeprogrammmmKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KodeprogrammmmKt" />
+      <module name="PemrogramanKotlinLanjutan5c" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KodeprogrammmmKt" />
         <item itemvalue="Kotlin.KodeprogrammmKt" />
         <item itemvalue="Kotlin.For_loopKt" />
         <item itemvalue="Kotlin.KodeprogrammKt" />
         <item itemvalue="Kotlin.ContohkodeprogramKt" />
-        <item itemvalue="Kotlin.KodeprogramKt" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726293628859</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="kodeprogrammm.kt">
+      <created>1726306804848</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726306804848</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +272,7 @@
     <MESSAGE value="contohkodeprogram.kt" />
     <MESSAGE value="kodeprogramm.kt" />
     <MESSAGE value="for-loop.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="for-loop.kt" />
+    <MESSAGE value="kodeprogrammm.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="kodeprogrammm.kt" />
   </component>
 </project>
