@@ -36,9 +36,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.OperatorKt">
-    <configuration name="BreakdancontinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakdancontinueKt" />
+  <component name="RunManager" selected="Kotlin.ContohkodeprogramoperatorKt">
+    <configuration name="ContohkodeprogramoperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContohkodeprogramoperatorKt" />
       <module name="PemrogramanKotlinLanjutan5c" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ContohkodeprogramoperatorKt" />
         <item itemvalue="Kotlin.OperatorKt" />
         <item itemvalue="Kotlin.NullKt" />
         <item itemvalue="Kotlin.LabelKt" />
         <item itemvalue="Kotlin.ReturnKt" />
-        <item itemvalue="Kotlin.BreakdancontinueKt" />
       </list>
     </recent_temporary>
   </component>
